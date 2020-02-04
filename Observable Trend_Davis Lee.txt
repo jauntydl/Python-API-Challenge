@@ -1,0 +1,5 @@
+Oberservable Trend_Davis Lee
+ 1. Max temperature peaks near equator (0 latitude) and decreases as latitude moves further away from the equator
+ 2. Humidity is higher in average on Northern hemisphere than on Southern hemisphere
+ 3. There does not seem to be ant correlation between cloudiness and latitude
+ 4. While there is no clear correlation between wind speed and latitude, Wind speed does appear to be higher on latidue  > 60 than the res
